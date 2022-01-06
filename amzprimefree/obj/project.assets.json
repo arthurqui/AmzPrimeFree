@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\nixmaps\\amzprimefree\\amzprimefree.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\amzprimefree\\amzprimefree\\amzprimefree.csproj",
       "projectName": "amzprimefree",
-      "projectPath": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\nixmaps\\amzprimefree\\amzprimefree.csproj",
+      "projectPath": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\amzprimefree\\amzprimefree\\amzprimefree.csproj",
       "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\nixmaps\\amzprimefree\\obj\\",
+      "outputPath": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\amzprimefree\\amzprimefree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

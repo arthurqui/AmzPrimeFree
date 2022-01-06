@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bI9Z3ApWV4+wGQV00wF5end70nHg1++1qQjXwdG1/VFanNlssL1dATh/I9djk7PvSFX0mXOe6QVR37mQqAcVTg==",
+  "dgSpecHash": "1/oMcQ0u5dYoY/GXsQOi9SzEGNly3qHCQC5o3BMd+Smb5JdkqeYbi3+c32buSc6vUSHsNQK6zQ62rt1cuKl+4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\nixmaps\\amzprimefree\\amzprimefree.csproj",
+  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\AmzPrime Free\\amzprimefree\\amzprimefree\\amzprimefree.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
